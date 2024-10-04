@@ -12,10 +12,6 @@
  Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩`
 ```
 </div>
-
-
-
-
 ## Features :
 
 Invoice Management
@@ -29,14 +25,3 @@ Customer Management
 Ant Design Framework(AntD) 🐜
 
 Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
-
-
-
-
-Dont forget to give a ⭐️ to this project ... Happy coding!
-
-**🚀 Self-hosted Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
-
-## License
-
-IDURAR is Free Open Source Released under the GNU Affero General Public License v3.0.
